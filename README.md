@@ -26,11 +26,11 @@ I mainly followed the Pi-Hole documentation for setup, which is here: https://gi
 
 Here is the Raspberry Pi itself. * Don't mind the dust :P *
 
-![image_67193857](https://user-images.githubusercontent.com/129352199/235516680-417fd8ec-bfa7-4ec6-9667-eef46cc537e5.JPG)
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/129352199/235517332-f6cf7826-a2ea-4697-9ad3-ac08813193f3.png">
 
 The actual computer sits in a protective case, but I can remove the top so you can see it!
 
-![image_67187201](https://user-images.githubusercontent.com/129352199/235516567-e916a650-7120-4f88-8e27-5be52aebfbb0.JPG)
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/129352199/235517431-5dc2de76-7d91-4382-941f-6acdfb75e104.png">
 
 
 

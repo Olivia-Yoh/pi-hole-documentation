@@ -24,7 +24,17 @@ I mainly followed the Pi-Hole documentation for setup, which is here: https://gi
 
 ## *End Result*
 
-This is what the admin page looks like!
+Here is the Raspberry Pi itself. * Don't mind the dust :P *
+
+![image_67193857](https://user-images.githubusercontent.com/129352199/235516680-417fd8ec-bfa7-4ec6-9667-eef46cc537e5.JPG)
+
+The actual computer sits in a protective case, but I can remove the top so you can see it!
+
+![image_67187201](https://user-images.githubusercontent.com/129352199/235516567-e916a650-7120-4f88-8e27-5be52aebfbb0.JPG)
+
+
+
+This is what the Pi-Hole admin page after setup looks like!
 
 <img width="1267" alt="image" src="https://user-images.githubusercontent.com/129352199/235513128-761a5c79-ee26-48dc-9c43-e42ae81ca454.png">
 
